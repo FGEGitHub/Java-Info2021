@@ -16,7 +16,7 @@ public class Ejercicio5 {
 
         List <Empleados> ListaEmpleados = new ArrayList<>();
 
-        String path = "D:/Documents/Java 2021/java_2021/otros/Empleados.txt";
+        String path = D:/Documents/Java 2021/JAVA 2021/Java-Info2021/Empleados.txt";
         String[] emp;
         try (BufferedReader br = new BufferedReader( new FileReader(path))){
             String line = br.readLine();

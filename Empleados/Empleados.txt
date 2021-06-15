@@ -1,0 +1,4 @@
+Fernando,Enrique,05-10-1989,80000
+Lautaro,Martinez,05-10-1510,90000
+Roberto,Gomez,04-05-1850,60
+Raimundo,Torres,09-07-2000,900
